@@ -3,6 +3,7 @@
 This week I re learnd binarey and also the computer hardware.
 And also the algorithems.
 Also and how to use github.
+
 ---
 
 # computer networking 9/14/2018
