@@ -30,4 +30,10 @@ And also how to make tour leeters bold them selves.
 
 ---
 
-# 
+# mark down 10/12/18
+This week I learnd how to create a photo in git.
+I also learnd how to make git commands work.
+Another thing is that saving your work is important
+I also learnd how corectley pop out words
+And how to pop greative sentenses
+and highlightinge sentences
