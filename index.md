@@ -1,3 +1,12 @@
+# HTML 10/26/18
+This week I learnd how eazy it is to make a website and code phrases and paragraphs.
+The website we made is what I used <h1-6> to make paragraphs.
+I also use <b> wich blods words in a paragraphs
+I also learnd how to get my passworsd i i lose it.
+I can now make videos pop up on my web page.
+
+---
+
 # XML 10/19/2018
 This week I learnd how to make my own world yousing XML.
 I also learnd how to save so i do not lose my information.
