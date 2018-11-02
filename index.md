@@ -1,3 +1,12 @@
+# HTML 2 11/2/18
+This weak i learn how to meake a pizza website/
+It is cmprized of check boxes for my meats and cheses and sause.
+It is also comprized of sizes and of photos that tell you what you have to chose from.
+With 5 ndifferent fecher it was not formated but i hobe to learn ho soon/
+this is awsome to learn considering that it is what i use to code in my life.
+
+---
+
 # HTML 10/26/18
 This week I learnd how eazy it is to make a website and code phrases and paragraphs.
 The website we made is what I used <h1-6> to make paragraphs.
