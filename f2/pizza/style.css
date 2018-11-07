@@ -7,3 +7,8 @@ img{
 height: 200px;
 width: 310px;
 }
+
+.squircle{
+    border-radius:5px;
+    padding: 20px;
+}
