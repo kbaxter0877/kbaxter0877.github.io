@@ -8,6 +8,12 @@ height: 200px;
 width: 310px;
 }
 
+.camo{
+    background:url("https://cdn.shopify.com/s/files/1/1564/3771/products/KYLIE_CAMOTEE_TIGER_-2_1024x1024.jpg?v=1493765152");
+    background-repeat:repeat;
+    height:100px;
+}
+
 .squircle{
     border-radius:70px;
     padding: 20px;
