@@ -18,7 +18,8 @@ h1{
 .pageMargin{
     border-style:double;
     border-width:20px;
-    border-color:green
+    border-color:green;
+    margin:20px;
 }
 
 .camo{
