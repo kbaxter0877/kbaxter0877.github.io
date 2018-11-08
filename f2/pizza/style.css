@@ -16,7 +16,7 @@ h1{
 }
 
 .pageMargin{
-    border-style:none;
+    border-style:double;
     border-width:20px;
     border-color:green
 }
