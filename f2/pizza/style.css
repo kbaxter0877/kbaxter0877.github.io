@@ -9,7 +9,8 @@ width: 310px;
 }
 
 h1{
-    border-style:none;
+    border-style:double;
+    border-width:2px;
 }
 
 .camo{
