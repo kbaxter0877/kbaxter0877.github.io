@@ -1,3 +1,12 @@
+# HTML 3 11/9/18
+This week in mr.G class I learnd how to format my pizza website
+I also learnd how to space the lines at the bottme of the page.
+i also learnd how to put photos in and also camo.
+I also now how to make all my chagts and subits
+I formated the back ground to camo.
+
+---
+
 # HTML 2 11/2/18
 This weak i learn how to meake a pizza website/
 It is cmprized of check boxes for my meats and cheses and sause.
