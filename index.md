@@ -1,3 +1,13 @@
+# Game 11/16/18
+This week mr.G tolld us to make a game website it is about the game that we like and what it is about.
+I maniged to get some of the progect done with no flaw but when it came to the background i was not able to do it.
+I was also able to make the gallery with photos but it was also having format ishuse.
+In my little experience i have found that making large amounts of code is difficult and is not eazy.
+the img are also eazy but are not eazy to formate.
+I was also able to make the web apges connect but they where compications.
+
+---
+
 # HTML 3 11/9/18
 This week in mr.G class I learnd how to format my pizza website
 I also learnd how to space the lines at the bottme of the page.
