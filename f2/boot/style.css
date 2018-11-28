@@ -10,6 +10,10 @@
 .goldtext{
     color:gold;
 }
+.smallimage{
+    height:100px;
+    width:100px;
+}
 .block{
     height:100px;
     width: 200px;
