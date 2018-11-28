@@ -7,6 +7,9 @@
 .gold{
     background-color:gold;
 }
+.goldtext{
+    color:gold;
+}
 .block{
     height:100px;
 }
