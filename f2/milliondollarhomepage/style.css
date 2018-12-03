@@ -1,0 +1,11 @@
+.body{
+   background-color:black; 
+}
+.twelvepx{
+width:12px;
+}
+.onepx{
+widows: 1px;
+height:1px;
+background-color:white;
+}
