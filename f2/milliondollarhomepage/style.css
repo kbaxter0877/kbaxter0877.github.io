@@ -2,11 +2,12 @@
    background-color:black; 
 }
 .twelvepx{
-width:12px;
+width:120px;
 }
 .onepx{
-widows: 1px;
-height:1px;
+widows: 100px;
+height:100px;
 background-color:white;
-border:1px;
+border:20px;
+
 }
