@@ -1,13 +1,8 @@
-.body{
-   background-color:black; 
+.w{
+    background-color:black;
+    color:white;
 }
-.twelvepx{
-width:120px;
-}
-.onepx{
-widows: 100px;
-height:100px;
-background-color:white;
-border:20px;
-
+.b{
+    background-color:white;
+    color:black;
 }
