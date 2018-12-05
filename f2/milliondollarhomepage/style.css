@@ -1,12 +1,12 @@
 .w{
     background-color:darkred;
-    color:white;
+    color:none;
 }
 .b{
     background-color:white;
-    color:;
+    color:none;
 }
 .d{
     background-color:blue;
-    color:;
+    color:white;
 }
