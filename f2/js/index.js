@@ -4,9 +4,7 @@ function annoy(){
 
     document.getElementById("annoy").innerHTML = "I am annoyed"
 
-alert(fname + " are we there yet?");
-
-alert(fname + " are we there yet?");
+while(true){}
 
 alert(fname + " are we there yet?");
 
