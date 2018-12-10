@@ -1,3 +1,12 @@
+# milliondollor homepage 12/7/18
+This weak i learn how to make a milliondollor homepage using using bootstrap i bwas able to make a flage like the U.S.A.
+It at first was difficult and the flag did not have the right color cordination.
+And it did not have the ability to make the stars work but i added around 300 somthing.
+I also made the flag it long rectangles that where a little long.
+In all I did make a flag and it was one of the best progects so far.
+
+---
+
 # Game 11/16/18
 This week mr.G tolld us to make a game website it is about the game that we like and what it is about.
 I maniged to get some of the progect done with no flaw but when it came to the background i was not able to do it.
