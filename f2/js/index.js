@@ -1,11 +1,13 @@
 
 function annoy(){
+    var fname =prompt('tell me your name');
 
-alert("are we there yet?");
+alert(fname + "are we there yet?");
 
-alert("are we there yet?");
+alert(fname + "are we there yet?");
 
-alert("are we there yet?");
+alert(fname + "are we there yet?");
+
 }
 
 
