@@ -1,6 +1,7 @@
 
 function annoy(){
-    var fname =prompt('tell me your name');
+    alert("runnings")
+    var fname = prompt('tell me your name');
 
     document.getElementById("annoy").innerHTML = "I am annoyed"
 
