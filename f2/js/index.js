@@ -26,7 +26,8 @@ $("body").css("background", flag ? "green" : "red");
 
 });
 
-
+var audio = new Audio('first-noel-r&b.mp3');
+audio.play();
 
 
 
