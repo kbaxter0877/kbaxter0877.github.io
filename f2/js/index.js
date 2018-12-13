@@ -32,13 +32,6 @@ audio.play();
 
 
 
-myaudio.play();  
-myaudio.pause(); 
-myaudio.duration; 
-myaudio.currentTime = 0; 
-myaudio.loop = true; - 
-myaudio.muted = true;
-
 
 
 
