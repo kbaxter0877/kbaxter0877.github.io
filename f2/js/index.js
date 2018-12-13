@@ -32,25 +32,12 @@ audio.play();
 
 
 
- 
-<h1>HTML 5 Audio Player</h1>
-
-<div class="container gradient">
-     
-    <img class="cover" src="images/cover.jpg" alt="">
-
-    <div class="player gradient">
-
-        <a class="button gradient" id="play" href="" title=""></a>
-        <a class="button gradient" id="mute" href="" title=""></a>
-     
-            <input type="range" id="seek" value="0" max=""/>
- 
-        <a class="button gradient" id="close" href="" title=""></a>
-         
-    </div> <!-- / player -->
-     
-</div> <!-- / Container-->
+myaudio.play();  
+myaudio.pause(); 
+myaudio.duration; 
+myaudio.currentTime = 0; 
+myaudio.loop = true; - 
+myaudio.muted = true;
 
 
 
