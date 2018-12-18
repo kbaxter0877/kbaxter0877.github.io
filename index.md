@@ -1,3 +1,13 @@
+# java script 12/4/18
+This week i learnd how to make a colored and annoying system that flashes and keeps poping up warnings when tyou type in to 
+it.It also took acountability and played music.
+We also made it so that it would reminde you it was there with a red and green flashing light that never stoped.
+I liked that it took a hole 2 days to code it becuse of a E thatg was out of place.
+i was so angre that i about had a heart attack.
+We also where taut how to make a border to seperate them.
+
+---
+
 # milliondollor homepage 12/7/18
 This weak i learn how to make a milliondollor homepage using using bootstrap i bwas able to make a flage like the U.S.A.
 It at first was difficult and the flag did not have the right color cordination.
